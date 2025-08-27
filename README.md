@@ -6,10 +6,11 @@
   <p>A simple, stylish, and functional calculator with <b>Light</b> & <b>Dark</b> themes built using HTML, CSS, and JavaScript.</p>
   
   <!-- Light Theme Screenshot -->
-  <img src="2nd-Calculator/s2.png" alt="Calculator Light Theme" width="400"/>
+  <img src="2nd-Calculator/s2.png" alt="Calculator Light Theme" width="100%"/>
+  <br><br>
   <br><br>
   <!-- Dark Theme Screenshot -->
-  <img src="2nd-Calculator/s1.png" alt="Calculator Dark Theme" width="400"/>
+  <img src="2nd-Calculator/s1.png" alt="Calculator Dark Theme" width="100%"/>
 </div>
 
 ---
